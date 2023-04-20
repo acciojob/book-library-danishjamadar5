@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+/*  your css code here. If applicable */
+body{
+	background:#f8f8f8;
+}
+.empty{
+	background:white;
+}
+img{
+	width:200px;
+	height:300px;
+	padding:2%;
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
+.p{
+	line-height:0;
+}
+.green{
+	text-align:center;
+	background:green;
+	color:white;
+}
