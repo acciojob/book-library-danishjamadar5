@@ -16,9 +16,15 @@ img{
 }
 .p{
 	line-height:0;
+	color:#7777777
 }
 .green{
 	text-align:center;
-	background:green;
-	color:white;
+	color:#2ecc71;
+}
+.book-library{
+	background-color:#ffffff;
+}
+.book{
+	
 }
